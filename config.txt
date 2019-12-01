@@ -1,0 +1,6 @@
+﻿token=NjMyMjU0NTcwMDc2MTc2NDE0.XeP2yA.M-khChS3MOWYvu6wQYImwqBNfLk
+owner=541002506084286467
+prefix= !
+game= Muisc
+stayinchannel=true
+songinstatus=true
